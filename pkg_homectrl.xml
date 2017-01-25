@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <extension type="package" version="1.6">
+ <name>Home information center package</name>
+ <packagename>HomeInfo</packagename>
+ <version>0.1.1</version>
+ <url>http://dev.kjeholt.se/</url>
+ <packager>Björn Kjeholt</packager>
+ <packagerurl>http://dev.kjeholt.se/</packagerurl>
+ <description>Packaging of all different components and modules related to the Home information center</description>
+ <update>http://dev.kjeholt.se/update</update>
+ <files folder="packages">
+ <file type="component" id="com_homeinfo" >com_homeinfo-0.3.3.zip</file>
+ <file type="module" id="mod_homeinfo" client="site">mod_homeinfo-0.2.3.zip</file>
+ </files>
+ </extension>
